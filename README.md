@@ -124,13 +124,14 @@ streamlit run app.py
 
 ## 📸 App Screenshots
 
-### Positive Review — 97% Confidence
-> *"This movie was absolutely incredible! The acting was superb, the plot kept me on the edge of my seat."*
-> → **POSITIVE 😊 — 97.0%**
+### ✅ Positive Prediction — 97% Confidence
+![Positive Prediction](assets/positive_prediction.png)
 
-### Negative Review — 99.3% Confidence
-> *"What a waste of time. The story made no sense, the acting was terrible."*
-> → **NEGATIVE 😞 — 99.3%**
+### ❌ Negative Prediction — 99.3% Confidence
+![Negative Prediction](assets/negative_prediction.png)
+
+### 📊 Confusion Matrix
+![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
 
