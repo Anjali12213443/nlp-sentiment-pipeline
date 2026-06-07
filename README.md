@@ -1,4 +1,4 @@
-# 🎬 NLP Sentiment Analysis Pipeline
+# NLP Sentiment Analysis Pipeline
 
 An end-to-end Natural Language Processing pipeline that analyzes sentiment of movie reviews using both classical ML and modern deep learning approaches — built with real IMDb data, two trained models, and a live interactive web app.
 
@@ -9,7 +9,7 @@ An end-to-end Natural Language Processing pipeline that analyzes sentiment of mo
 
 ---
 
-## 🌟 Live Demo
+## Live Demo
 
 Run locally with:
 ```bash
@@ -20,7 +20,7 @@ Type any movie review and get an instant sentiment prediction with confidence sc
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model | Training Data | Accuracy | Training Time |
 |-------|--------------|----------|---------------|
@@ -31,7 +31,7 @@ Type any movie review and get an instant sentiment prediction with confidence sc
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 nlp-sentiment-pipeline/
@@ -51,7 +51,7 @@ nlp-sentiment-pipeline/
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -64,7 +64,7 @@ nlp-sentiment-pipeline/
 
 ---
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ```bash
 # 1. Clone the repository
@@ -90,7 +90,7 @@ streamlit run app.py
 
 ---
 
-## 🔍 Pipeline Overview
+## Pipeline Overview
 
 ### Step 1 — Data Loading
 - Dataset: IMDb Movie Reviews via HuggingFace (`stanfordnlp/imdb`)
@@ -122,20 +122,20 @@ streamlit run app.py
 
 ---
 
-## 📸 App Screenshots
+## App Screenshots
 
-### ✅ Positive Prediction — 97% Confidence
+### Positive Prediction — 97% Confidence
 ![Positive Prediction](assets/positive_prediction.png)
 
-### ❌ Negative Prediction — 99.3% Confidence
+### Negative Prediction — 99.3% Confidence
 ![Negative Prediction](assets/negative_prediction.png)
 
-### 📊 Confusion Matrix
+### Confusion Matrix
 ![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
 
-## 📁 Key Files
+## Key Files
 
 | File | Description |
 |------|-------------|
@@ -146,7 +146,7 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Anjali Velu Ramalingam**
 M.S. Data Science & Analytics | Minor in Artificial Intelligence
